@@ -1,2 +1,2 @@
 
-![Simonsays](/Simonsays.png)
+![SimonSays](/simonsays.png)
